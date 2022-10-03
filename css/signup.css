@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;  
+  }
+  
+  .set{
+    background-color: rgb(218, 170, 99);
+    height: 600px;
+    position: relative;
+  
+  }
+  .sign_in_page {
+    background-color: white;
+    max-width: 100%;
+    width: 280px;
+    
+    height: 500px;
+    margin-left: 350px;
+    padding-left: 20px;
+    position: absolute;
+    top: 5%;
+  
+  }
+  .box {
+    padding: 6px;
+    font-family: 'Lato';
+    
+  }
+
+.btn {
+  width: 250px;
+  background-color: rgb(84, 129, 16);
+  cursor: pointer;
+}
+  
+
+.span {
+  color: #cc0000;
+  cursor: pointer;
+}
+
+
+
+
